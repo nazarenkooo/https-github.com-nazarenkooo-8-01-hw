@@ -51,7 +51,7 @@ https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/dae7a860e350f0
 
 ### Задание 2
 
-https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/2f42d718b01bcaffea7bfaba9e7d5a9aee490395
+https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/64bc4e6b15da817e0dd985c3587b18d2a4f9b1cd
 
 `Приведите ответ в свободной форме........`
 
@@ -63,7 +63,7 @@ https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/2f42d718b01bca
 6. 
 
 ```
-Поле для вставки кода https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/2f42d718b01bcaffea7bfaba9e7d5a9aee490395
+Поле для вставки кода https://github.com/nazarenkooo/SYS-17_Nazarenko-Git-8.1-hw/commit/64bc4e6b15da817e0dd985c3587b18d2a4f9b1cd
 ....
 ....
 ....
